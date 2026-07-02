@@ -5,4 +5,5 @@ A growing colllection of moOchi wallpapers by Shan
 
 | Name               | Preview                                                       | Description                                           |
 | ------------------ | ------------------------------------------------------------- | ----------------------------------------------------- |
-| Mochi example  | [<img src="/src/Simple visualizer/ub3mqljo.gif" width="300" />](https://github.com/rocksdanister/audio-visualizer-wallpaper/releases) | Mochi description example          |
+| Mochi example  | [<img src="/src/Simple visualizer/ub3mqljo.gif" width="300" />](https://github.com/moOchiiTheshroOm/moOchiiTheshroOm-moOchii-live-wallpaper/releases) | Mochi description example |
+| Mochi example  | [<img src="/src/Simple visualizer/ub3mqljo.gif" width="300" />](https://github.com/moOchiiTheshroOm/moOchiiTheshroOm-moOchii-live-wallpaper/releases) | Mochi description example |
